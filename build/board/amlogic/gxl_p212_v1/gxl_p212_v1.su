@@ -1,0 +1,16 @@
+gxl_p212_v1.c:200:13:sd_emmc_pwr_on	0	static
+gxl_p212_v1.c:218:13:sd_emmc_pwr_off	0	static
+gxl_p212_v1.c:238:13:board_mmc_register	32	static
+gxl_p212_v1.c:195:13:sd_emmc_pwr_prepare	0	static
+gxl_p212_v1.c:144:13:sd_emmc_init	0	static
+gxl_p212_v1.c:166:13:sd_emmc_detect	32	static
+gxl_p212_v1.c:54:5:serial_set_pin_port	0	static
+gxl_p212_v1.c:62:5:dram_init	0	static
+gxl_p212_v1.c:71:6:secondary_boot_func	0	static
+gxl_p212_v1.c:74:6:internalPhyConfig	32	static
+gxl_p212_v1.c:132:5:board_eth_init	16	static
+gxl_p212_v1.c:258:5:board_mmc_init	16	static
+gxl_p212_v1.c:366:5:board_init	16	static
+gxl_p212_v1.c:419:5:board_late_init	96	static
+gxl_p212_v1.c:476:13:get_effective_memsize	0	static
+gxl_p212_v1.c:487:5:checkhw	96	static

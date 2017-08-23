@@ -1,0 +1,2 @@
+cmd_forceupdate.c:37:12:do_forceupdate	32	static
+cmd_forceupdate.c:6:12:get_source_key	0	static

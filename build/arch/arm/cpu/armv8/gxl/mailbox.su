@@ -1,0 +1,3 @@
+mailbox.c:104:6:open_scp_log	0	static
+mailbox.c:113:5:thermal_calibration	0	static
+mailbox.c:134:5:thermal_get_value	0	static

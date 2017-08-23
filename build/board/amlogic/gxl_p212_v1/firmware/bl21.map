@@ -1,0 +1,165 @@
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/build_message.o
+ .data          0x0000000000000000        0x0 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/build_message.o
+ .bss           0x0000000000000000        0x0 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/build_message.o
+ .rodata.build_message
+                0x0000000000000000       0x38 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/build_message.o
+ .debug_info    0x0000000000000000       0x52 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/build_message.o
+ .debug_abbrev  0x0000000000000000       0x43 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/build_message.o
+ .debug_aranges
+                0x0000000000000000       0x20 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/build_message.o
+ .debug_line    0x0000000000000000       0x28 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/build_message.o
+ .debug_str     0x0000000000000000      0x12a /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/build_message.o
+ .comment       0x0000000000000000       0x60 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/build_message.o
+ .text          0x0000000000000000        0x0 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/bl21_main.o
+ .data          0x0000000000000000        0x0 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/bl21_main.o
+ .bss           0x0000000000000000        0x0 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/bl21_main.o
+ .text._get_time
+                0x0000000000000000       0x10 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/bl21_main.o
+ .text          0x0000000000000000        0x0 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/serial.o
+ .data          0x0000000000000000        0x0 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/serial.o
+ .bss           0x0000000000000000        0x0 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/serial.o
+ .text.serial_set_pin_port
+                0x0000000000000000       0x20 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/serial.o
+ .text.serial_init
+                0x0000000000000000       0x50 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/serial.o
+ .text.serial_getc
+                0x0000000000000000       0x74 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/serial.o
+ .text.serial_put_hex
+                0x0000000000000000       0x54 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/serial.o
+ .text          0x0000000000000000        0x0 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/timer.o
+ .data          0x0000000000000000        0x0 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/timer.o
+ .bss           0x0000000000000000        0x0 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/timer.o
+ .text.get_time
+                0x0000000000000000       0x10 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/timer.o
+ .text._udelay  0x0000000000000000       0x28 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/timer.o
+ .debug_info    0x0000000000000000       0xb2 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/timer.o
+ .debug_abbrev  0x0000000000000000       0x85 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/timer.o
+ .debug_aranges
+                0x0000000000000000       0x40 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/timer.o
+ .debug_ranges  0x0000000000000000       0x30 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/timer.o
+ .debug_line    0x0000000000000000       0x5e /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/timer.o
+ .debug_str     0x0000000000000000      0x134 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/timer.o
+ .comment       0x0000000000000000       0x60 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/timer.o
+ .debug_frame   0x0000000000000000       0x40 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/timer.o
+ .data          0x0000000000000000        0x0 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/bl21_entrypoint.o
+ .bss           0x0000000000000000        0x0 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/bl21_entrypoint.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+                0x00000000d900b400                . = 0xd900b400
+                0x0000000000000001                ASSERT ((. == ALIGN (0x400)), BL21 base address is not aligned.)
+
+ro              0x00000000d900b400      0x458
+                0x00000000d900b400                __RO_START__ = .
+ *bl21_entrypoint.o(.text*)
+ .text          0x00000000d900b400       0x48 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/bl21_entrypoint.o
+                0x00000000d900b400                bl21_entrypoint
+ *(.text*)
+ .text._udelay_
+                0x00000000d900b448       0x28 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/bl21_main.o
+                0x00000000d900b448                _udelay_
+ .text.pwm_init
+                0x00000000d900b470       0xf8 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/bl21_main.o
+                0x00000000d900b470                pwm_init
+ .text.pwm_set_voltage
+                0x00000000d900b568       0x80 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/bl21_main.o
+                0x00000000d900b568                pwm_set_voltage
+ .text.power_init
+                0x00000000d900b5e8       0x7c /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/bl21_main.o
+                0x00000000d900b5e8                power_init
+ .text.board_init
+                0x00000000d900b664        0x8 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/bl21_main.o
+                0x00000000d900b664                board_init
+ .text.bl21_main
+                0x00000000d900b66c        0x4 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/bl21_main.o
+                0x00000000d900b66c                bl21_main
+ .text.serial_putc
+                0x00000000d900b670       0x48 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/serial.o
+                0x00000000d900b670                serial_putc
+ .text.serial_puts
+                0x00000000d900b6b8       0x30 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/serial.o
+                0x00000000d900b6b8                serial_puts
+ .text.serial_put_dec
+                0x00000000d900b6e8       0x68 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/serial.o
+                0x00000000d900b6e8                serial_put_dec
+ *(.rodata*)
+ .rodata.pwm_voltage_table
+                0x00000000d900b750       0xe8 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/bl21_main.o
+ .rodata.str1.1
+                0x00000000d900b838       0x20 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/bl21_main.o
+ *(.vectors)
+                0x00000000d900b858                __RO_END_UNALIGNED__ = .
+                0x00000000d900b858                __RO_END__ = .
+
+.data           0x00000000d900b858        0x0
+                0x00000000d900b858                __DATA_START__ = .
+ *(.data*)
+                0x00000000d900b858                __DATA_END__ = .
+
+.bss            0x00000000d900b860        0x0
+                0x00000000d900b860                __BSS_START__ = .
+ *(SORT(.bss*))
+ *(COMMON)
+                0x00000000d900b860                __BSS_END__ = .
+                0x0000000000000000                __BSS_SIZE__ = SIZEOF (.bss)
+                0x0000000000000001                ASSERT ((. <= 0xd900c000), bl21 image has exceeded its limit.)
+LOAD /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/build_message.o
+LOAD /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/bl21_main.o
+LOAD /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/serial.o
+LOAD /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/timer.o
+LOAD /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/bl21_entrypoint.o
+OUTPUT(/home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/bl21.elf elf64-littleaarch64)
+
+.debug_info     0x0000000000000000      0x661
+ .debug_info    0x0000000000000000      0x39f /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/bl21_main.o
+ .debug_info    0x000000000000039f      0x239 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/serial.o
+ .debug_info    0x00000000000005d8       0x89 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/bl21_entrypoint.o
+
+.debug_abbrev   0x0000000000000000      0x261
+ .debug_abbrev  0x0000000000000000      0x16c /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/bl21_main.o
+ .debug_abbrev  0x000000000000016c       0xe1 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/serial.o
+ .debug_abbrev  0x000000000000024d       0x14 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/bl21_entrypoint.o
+
+.debug_loc      0x0000000000000000      0x4d4
+ .debug_loc     0x0000000000000000      0x259 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/bl21_main.o
+ .debug_loc     0x0000000000000259      0x27b /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/serial.o
+
+.debug_aranges  0x0000000000000000      0x150
+ .debug_aranges
+                0x0000000000000000       0x90 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/bl21_main.o
+ .debug_aranges
+                0x0000000000000090       0x90 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/serial.o
+ .debug_aranges
+                0x0000000000000120       0x30 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/bl21_entrypoint.o
+
+.debug_ranges   0x0000000000000000      0x100
+ .debug_ranges  0x0000000000000000       0x80 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/bl21_main.o
+ .debug_ranges  0x0000000000000080       0x80 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/serial.o
+
+.debug_line     0x0000000000000000      0x2e1
+ .debug_line    0x0000000000000000      0x177 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/bl21_main.o
+ .debug_line    0x0000000000000177      0x119 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/serial.o
+ .debug_line    0x0000000000000290       0x51 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/bl21_entrypoint.o
+
+.debug_str      0x0000000000000000      0x258
+ .debug_str     0x0000000000000000      0x1de /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/bl21_main.o
+                                        0x1f8 (size before relaxing)
+ .debug_str     0x00000000000001de       0x7a /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/serial.o
+                                        0x1d0 (size before relaxing)
+
+.comment        0x0000000000000000       0x5f
+ .comment       0x0000000000000000       0x5f /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/bl21_main.o
+                                         0x60 (size before relaxing)
+ .comment       0x0000000000000000       0x60 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/serial.o
+
+.debug_frame    0x0000000000000000      0x1e0
+ .debug_frame   0x0000000000000000       0xd0 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/bl21_main.o
+ .debug_frame   0x00000000000000d0      0x110 /home/tony/Desktop/uboot-2015-dev/build/board/amlogic/gxl_p212_v1/firmware/serial.o

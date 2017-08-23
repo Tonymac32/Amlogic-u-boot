@@ -1,0 +1,15 @@
+optimus_progress_ui.c:32:12:optimus_prepare_upgrading_bmps	192	static
+optimus_progress_ui.c:124:12:_show_burn_logo	96	static
+optimus_progress_ui.c:173:12:show_logo_report_burn_ui_error	16	static
+optimus_progress_ui.c:93:5:video_res_prepare_for_upgrade	32	static
+optimus_progress_ui.c:154:5:show_logo_to_report_burning	0	static
+optimus_progress_ui.c:159:5:show_logo_to_report_burn_success	16	static
+optimus_progress_ui.c:218:8:optimus_progress_ui_request	80	static
+optimus_progress_ui.c:266:5:optimus_progress_ui_set_smart_mode	32	static
+optimus_progress_ui.c:283:5:optimus_progress_ui_set_unfocus_bkg	144	static
+optimus_progress_ui.c:355:5:optimus_progress_ui_direct_update_progress	128	static
+optimus_progress_ui.c:406:5:optimus_progress_ui_update_by_bytes	32	static
+optimus_progress_ui.c:433:5:optimus_progress_ui_release	32	static
+optimus_progress_ui.c:446:8:optimus_progress_ui_request_for_sdc_burn	96	static
+optimus_progress_ui.c:500:5:optimus_progress_ui_report_upgrade_stat	16	static
+optimus_progress_ui.c:537:5:optimus_progress_ui_printf	816	static

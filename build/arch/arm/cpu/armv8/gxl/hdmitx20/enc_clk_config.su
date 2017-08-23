@@ -1,0 +1,3 @@
+enc_clk_config.c:75:5:set_viu_path	16	static
+enc_clk_config.c:539:13:set_hdmitx_clk_	64	static
+enc_clk_config.c:615:6:set_hdmitx_clk	48	static

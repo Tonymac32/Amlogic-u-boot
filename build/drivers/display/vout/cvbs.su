@@ -1,0 +1,11 @@
+cvbs.c:532:13:cvbs_write_vcbus_array	0	static
+cvbs.c:559:13:cvbs_performance_enhancement	32	static
+cvbs.c:227:5:0	0	static
+cvbs.c:483:12:cvbs_config_clock	0	static
+cvbs.c:191:5:cvbs_set_bist	32	static
+cvbs.c:227:5:cvbs_set_vdac	16	static
+cvbs.c:335:5:cvbs_reg_debug	64	static
+cvbs.c:548:6:cvbs_performance_config	32	static
+cvbs.c:653:5:cvbs_set_vmode	48	static
+cvbs.c:695:6:cvbs_show_valid_vmode	0	static
+cvbs.c:701:6:cvbs_init	16	static

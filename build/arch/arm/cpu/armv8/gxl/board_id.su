@@ -1,0 +1,2 @@
+board_id.c:15:6:bubble_sort	0	static
+board_id.c:28:14:get_board_id	32	static

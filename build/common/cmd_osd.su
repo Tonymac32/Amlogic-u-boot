@@ -1,0 +1,8 @@
+cmd_osd.c:157:12:do_osd	48	static
+cmd_osd.c:112:12:do_osd_display	48	static
+cmd_osd.c:103:12:do_osd_test	16	static
+cmd_osd.c:58:12:do_osd_clear	32	static
+cmd_osd.c:43:12:do_osd_close	16	static
+cmd_osd.c:32:12:do_osd_enable	16	static
+cmd_osd.c:20:12:do_osd_open	16	static
+cmd_osd.c:82:12:do_osd_debug	16	static

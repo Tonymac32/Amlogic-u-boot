@@ -1,0 +1,5 @@
+amlnf_key.c:9:5:amlnf_key_read	48	static
+amlnf_key.c:58:5:amlnf_key_write	48	static
+amlnf_key.c:101:5:amlnf_key_erase	16	static
+amlnf_key.c:119:5:aml_key_init	32	static
+amlnf_key.c:152:5:aml_nand_update_key	64	static

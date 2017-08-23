@@ -1,0 +1,2 @@
+timer.c:27:10:get_time	0	static
+timer.c:32:6:_udelay	0	static

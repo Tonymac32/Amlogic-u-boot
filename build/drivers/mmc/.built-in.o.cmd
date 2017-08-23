@@ -1,0 +1,1 @@
+cmd_drivers/mmc/built-in.o :=  /opt/gcc-linaro-aarch64-none-elf-4.8-2013.11_linux/bin/aarch64-none-elf-ld.bfd     -r -o drivers/mmc/built-in.o drivers/mmc/mmc.o drivers/mmc/aml_sd_emmc.o drivers/mmc/aml_emmc_partition.o drivers/mmc/mmc_write.o 

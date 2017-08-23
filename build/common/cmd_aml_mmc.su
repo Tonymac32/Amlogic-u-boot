@@ -1,0 +1,14 @@
+bitops.h:12:19:generic_ffs	0	static
+cmd_aml_mmc.c:922:12:1	48	static
+cmd_aml_mmc.c:934:12:2	48	static
+cmd_aml_mmc.c:947:20:_dtb_init	32	static
+cmd_aml_mmc.c:151:12:4	80	static
+cmd_aml_mmc.c:893:12:_calc_dtb_checksum	16	static
+cmd_aml_mmc.c:80:6:emmckey_is_protected	16	static
+cmd_aml_mmc.c:107:5:mmc_read_status	80	static
+cmd_aml_mmc.c:205:5:do_amlmmcops	624	static
+cmd_aml_mmc.c:998:5:dtb_read	144	static
+cmd_aml_mmc.c:1120:5:dtb_write	96	static
+cmd_aml_mmc.c:1174:5:renew_partition_tbl	32	static
+cmd_aml_mmc.c:1196:5:do_amlmmc_dtb_key	80	static
+cmd_aml_mmc.c:1282:5:emmc_update_mbr	32	static

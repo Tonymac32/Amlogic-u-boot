@@ -1,0 +1,1 @@
+cmd_net/built-in.o :=  /opt/gcc-linaro-aarch64-none-elf-4.8-2013.11_linux/bin/aarch64-none-elf-ld.bfd     -r -o net/built-in.o net/arp.o net/bootp.o net/eth.o net/net.o net/ping.o net/rarp.o net/tftp.o 

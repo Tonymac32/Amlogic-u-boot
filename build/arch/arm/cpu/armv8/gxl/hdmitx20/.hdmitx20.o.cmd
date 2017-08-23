@@ -1,0 +1,1 @@
+cmd_arch/arm/cpu/armv8/gxl/hdmitx20/hdmitx20.o := /opt/gcc-linaro-aarch64-none-elf-4.8-2013.11_linux/bin/aarch64-none-elf-ld.bfd     -r -o arch/arm/cpu/armv8/gxl/hdmitx20/hdmitx20.o arch/arm/cpu/armv8/gxl/hdmitx20/reg_ops.o arch/arm/cpu/armv8/gxl/hdmitx20/hdmitx_set.o arch/arm/cpu/armv8/gxl/hdmitx20/hdmitx_tvenc.o arch/arm/cpu/armv8/gxl/hdmitx20/enc_clk_config.o 

@@ -1,0 +1,1 @@
+cmd_drivers/nand/built-in.o :=  /opt/gcc-linaro-aarch64-none-elf-4.8-2013.11_linux/bin/aarch64-none-elf-ld.bfd     -r -o drivers/nand/built-in.o drivers/nand/dev/built-in.o drivers/nand/logiclib/built-in.o drivers/nand/phy/built-in.o 

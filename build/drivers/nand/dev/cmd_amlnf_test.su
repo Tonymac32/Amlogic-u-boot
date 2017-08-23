@@ -1,0 +1,5 @@
+cmd_amlnf_test.c:88:12:nand_read_ops_test	80	static
+cmd_amlnf_test.c:235:12:1	80	static
+cmd_amlnf_test.c:38:12:2	80	static
+cmd_amlnf_test.c:725:5:do_amlnand_test	128	static
+cmd_amlnf_test.c:11:7:memset_nand_test	0	static

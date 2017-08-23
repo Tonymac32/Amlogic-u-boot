@@ -1,0 +1,10 @@
+cmd_hdmitx.c:269:12:do_dump	16	static
+cmd_hdmitx.c:352:12:do_hdmitx	48	static
+cmd_hdmitx.c:275:12:do_info	32	static
+cmd_hdmitx.c:261:12:do_off	16	static
+cmd_hdmitx.c:68:12:do_edid	48	static
+cmd_hdmitx.c:248:12:do_blank	32	static
+cmd_hdmitx.c:181:12:do_output	48	static
+cmd_hdmitx.c:30:12:do_hpd_detect	32	static
+cmd_hdmitx.c:286:12:do_get_preferred_mode	208	static
+cmd_hdmitx.c:96:12:do_rx_det	64	static

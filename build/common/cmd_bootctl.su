@@ -1,0 +1,12 @@
+cmd_bootctl.c:92:6:boot_info_validate	0	static
+cmd_bootctl.c:103:6:boot_info_reset	32	static
+cmd_bootctl.c:118:6:dump_boot_info	32	static
+cmd_bootctl.c:130:5:boot_info_get_attemp_times	0	static
+cmd_bootctl.c:135:5:boot_info_change_online_slot	64	static
+cmd_bootctl.c:146:5:boot_info_get_online_slot	0	static
+cmd_bootctl.c:157:5:boot_info_set_active_slot	32	static
+cmd_bootctl.c:182:5:boot_info_open_partition	32	static
+cmd_bootctl.c:198:6:boot_info_load	32	static
+cmd_bootctl.c:205:6:boot_info_save	32	static
+cmd_bootctl.c:215:12:do_GetValidSlot	1152	static
+cmd_bootctl.c:268:12:do_SetActiveSlot	1184	static

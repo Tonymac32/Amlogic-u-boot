@@ -1,0 +1,13 @@
+key_unify.c:207:27:_get_km_ops_by_name	32	static
+key_unify.c:66:5:_keyman_hex_ascii_to_buf	80	static
+key_unify.c:113:5:_keyman_buf_to_hex_ascii	64	static
+key_unify.c:146:5:key_unify_init	48	static
+key_unify.c:189:5:key_unify_uninit	16	static
+key_unify.c:238:5:key_unify_query_key_has_configure	16	static
+key_unify.c:255:5:key_unify_write	48	static
+key_unify.c:288:5:key_unify_read	64	static
+key_unify.c:322:5:key_unify_query_size	48	static
+key_unify.c:344:5:key_unify_query_exist	32	static
+key_unify.c:359:5:key_unify_query_secure	48	static
+key_unify.c:398:5:do_keyunify	80	static
+key_unify.c:384:5:key_unify_query_canOverWrite	48	static

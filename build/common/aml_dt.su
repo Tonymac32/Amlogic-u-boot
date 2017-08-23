@@ -1,0 +1,2 @@
+aml_dt.c:43:5:is_dtb_encrypt	32	static
+aml_dt.c:56:2:get_multi_dt_entry	192	static

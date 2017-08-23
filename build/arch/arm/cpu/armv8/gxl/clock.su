@@ -1,0 +1,4 @@
+clock.c:114:5:clk_get_rate	16	static
+clock.c:211:15:clk_util_clk_msr	0	static
+clock.c:92:7:get_clk81	32	static
+clock.c:240:5:clk_msr	64	static

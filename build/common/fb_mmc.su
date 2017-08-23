@@ -1,0 +1,4 @@
+fb_mmc.c:29:6:fastboot_fail	32	static
+fb_mmc.c:35:6:fastboot_okay	32	static
+fb_mmc.c:96:6:fb_mmc_flash_write	144	static
+fb_mmc.c:178:6:fb_mmc_erase_write	160	static

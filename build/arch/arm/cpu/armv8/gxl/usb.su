@@ -1,0 +1,4 @@
+usb.c:30:29:board_usb_start	48	static
+usb.c:42:5:board_usb_stop	16	static
+usb.c:50:6:board_usb_init	0	static
+usb.c:65:5:get_usb_count	0	static

@@ -1,0 +1,15 @@
+optimus_img_decoder.c:136:24:image_item_get_item_info_byid	32	static
+optimus_img_decoder.c:60:8:image_open	48	static
+optimus_img_decoder.c:124:5:image_close	32	static
+optimus_img_decoder.c:181:12:image_item_open	64	static
+optimus_img_decoder.c:226:10:image_item_get_first_cluster_size	32	static
+optimus_img_decoder.c:240:10:image_get_cluster_size	0	static
+optimus_img_decoder.c:249:5:image_item_close	0	static
+optimus_img_decoder.c:254:7:image_item_get_size	0	static
+optimus_img_decoder.c:263:5:image_item_get_type	0	static
+optimus_img_decoder.c:271:5:image_item_read	112	static
+optimus_img_decoder.c:339:5:get_total_itemnr	0	static
+optimus_img_decoder.c:346:12:get_item	48	static
+optimus_img_decoder.c:376:5:get_item_name	48	static
+optimus_img_decoder.c:397:7:image_get_item_size_by_index	32	static
+optimus_img_decoder.c:415:5:optimus_img_decoder_get_data_parts_size	96	static
