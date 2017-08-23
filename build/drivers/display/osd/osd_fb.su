@@ -1,7 +1,0 @@
-osd_fb.c:214:22:env_strtoul	48	static
-osd_fb.c:165:13:0	112	static
-osd_fb.c:231:15:get_fb_addr	32	static
-osd_fb.c:272:7:video_hw_init	112	static
-osd_fb.c:335:5:rle8_decode	16	static
-osd_fb.c:425:5:video_display_bitmap	144	static
-osd_fb.c:643:5:video_scale_bitmap	64	static

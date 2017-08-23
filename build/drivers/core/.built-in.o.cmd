@@ -1,1 +1,0 @@
-cmd_drivers/core/built-in.o :=  /opt/gcc-linaro-aarch64-none-elf-4.8-2013.11_linux/bin/aarch64-none-elf-ld.bfd     -r -o drivers/core/built-in.o drivers/core/device.o drivers/core/lists.o drivers/core/root.o drivers/core/uclass.o drivers/core/util.o drivers/core/device-remove.o 

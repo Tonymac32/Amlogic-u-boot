@@ -1,4 +1,0 @@
-amlnf_env.c:21:5:amlnf_env_save	48	static
-amlnf_env.c:66:5:amlnf_env_read	48	static
-amlnf_env.c:278:5:aml_ubootenv_init	32	static
-amlnf_env.c:377:5:aml_nand_update_ubootenv	48	static

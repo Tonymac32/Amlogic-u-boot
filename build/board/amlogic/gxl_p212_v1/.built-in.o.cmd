@@ -1,1 +1,0 @@
-cmd_board/amlogic/gxl_p212_v1/built-in.o :=  /opt/gcc-linaro-aarch64-none-elf-4.8-2013.11_linux/bin/aarch64-none-elf-ld.bfd     -r -o board/amlogic/gxl_p212_v1/built-in.o board/amlogic/gxl_p212_v1/gxl_p212_v1.o board/amlogic/gxl_p212_v1/eth_setup.o 

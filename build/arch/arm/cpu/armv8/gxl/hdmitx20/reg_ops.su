@@ -1,8 +1,0 @@
-reg_ops.c:38:15:hd_read_reg	0	static
-reg_ops.c:31:6:hd_write_reg	0	static
-reg_ops.c:47:6:hd_set_reg_bits	64	static
-reg_ops.c:58:14:hdmitx_rd_reg	48	static
-reg_ops.c:79:6:hdmitx_wr_reg	48	static
-reg_ops.c:98:6:hdmitx_set_reg_bits	64	static
-reg_ops.c:109:6:hdmitx_poll_reg	48	static
-reg_ops.c:117:6:hdmitx_rd_check_reg	48	static

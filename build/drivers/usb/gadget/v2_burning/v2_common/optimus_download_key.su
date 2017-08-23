@@ -1,3 +1,0 @@
-optimus_download_key.c:121:10:v2_key_burn	128	static
-optimus_download_key.c:180:5:v2_key_read	80	static
-optimus_download_key.c:200:5:v2_key_command	80	static

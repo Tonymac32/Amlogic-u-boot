@@ -1,9 +1,0 @@
-cmd_cpu_temp.c:90:12:adc_init_chan6	16	static
-cmd_cpu_temp.c:273:17:do_read_calib_data	80	static
-cmd_cpu_temp.c:494:12:do_write_version	16	static
-cmd_cpu_temp.c:504:12:do_set_trim_base	16	static
-cmd_cpu_temp.c:513:12:do_temp_triming	32	static
-cmd_cpu_temp.c:143:12:0	32	static
-cmd_cpu_temp.c:427:12:do_read_temp	160	static
-cmd_cpu_temp.c:250:6:quicksort	48	static
-cmd_cpu_temp.c:311:12:do_write_trim	192	static

@@ -1,3 +1,0 @@
-sound.c:22:12:reg_update_bits	0	static
-sound.c:84:13:0	0	static
-sound.c:190:5:aml_audio_init	32	static

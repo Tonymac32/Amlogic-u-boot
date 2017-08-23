@@ -1,3 +1,0 @@
-boot_operation.c:221:5:roomboot_nand_read	224	static
-boot_operation.c:264:6:_dump_mem_u8	64	static
-boot_operation.c:574:5:roomboot_nand_write	240	static

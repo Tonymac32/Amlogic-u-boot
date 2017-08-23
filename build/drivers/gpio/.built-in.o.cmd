@@ -1,1 +1,0 @@
-cmd_drivers/gpio/built-in.o :=  /opt/gcc-linaro-aarch64-none-elf-4.8-2013.11_linux/bin/aarch64-none-elf-ld.bfd     -r -o drivers/gpio/built-in.o drivers/gpio/gpio-uclass.o drivers/gpio/amlogic_gpio.o 

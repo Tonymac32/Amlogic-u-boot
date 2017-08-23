@@ -1,2 +1,0 @@
-cmd_vpp.c:40:12:do_vpp	64	static
-cmd_vpp.c:5:12:do_vpp_pq	80	static

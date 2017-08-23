@@ -1,7 +1,0 @@
-amlnf_dtb.c:20:5:amlnf_dtb_save	64	static
-amlnf_dtb.c:64:5:amlnf_dtb_erase	16	static
-amlnf_dtb.c:81:5:amlnf_dtb_read	64	static
-amlnf_dtb.c:294:5:amlnf_dtb_init	48	static
-amlnf_dtb.c:386:5:amlnf_dtb_init_partitions	48	static
-amlnf_dtb.c:440:5:amlnf_detect_dtb_partitions	80	static
-amlnf_dtb.c:474:5:aml_nand_update_dtb	64	static

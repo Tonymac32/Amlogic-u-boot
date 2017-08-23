@@ -1,5 +1,0 @@
-cmd_amlnf.c:113:12:arg_off_size	96	static
-cmd_amlnf.c:74:15:strtoul	0	static
-cmd_amlnf.c:146:5:amlnand_read	96	static
-cmd_amlnf.c:208:5:amlnand_write	96	static
-cmd_amlnf.c:287:12:do_amlnfphy	176	static

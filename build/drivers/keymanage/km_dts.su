@@ -1,9 +1,0 @@
-km_dts.c:35:27:unifykey_find_item_by_name	48	static
-km_dts.c:20:12:unifykey_item_verify_check	16	static
-km_dts.c:50:23:keymanage_dts_get_key_fmt	32	static
-km_dts.c:75:24:keymanage_dts_get_key_device	32	static
-km_dts.c:96:13:keymanage_dts_get_enc_type	32	static
-km_dts.c:113:13:keymanage_dts_get_key_type	32	static
-km_dts.c:130:6:unifykey_get_efuse_version	32	static
-km_dts.c:145:5:unifykey_get_encrypt_type	0	static
-km_dts.c:280:5:keymanage_dts_parse	240	static

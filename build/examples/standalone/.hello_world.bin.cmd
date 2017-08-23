@@ -1,1 +1,0 @@
-cmd_examples/standalone/hello_world.bin := /opt/gcc-linaro-aarch64-none-elf-4.8-2013.11_linux/bin/aarch64-none-elf-objcopy -O binary  examples/standalone/hello_world examples/standalone/hello_world.bin

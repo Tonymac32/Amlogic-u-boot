@@ -1,8 +1,0 @@
-cmd_irblaster.c:138:12:do_irblaster	48	static
-cmd_irblaster.c:16:12:do_ir_close	16	static
-cmd_irblaster.c:6:12:do_ir_open	16	static
-cmd_irblaster.c:64:12:do_ir_set	32	static
-cmd_irblaster.c:104:12:do_ir_reg	48	static
-cmd_irblaster.c:82:12:do_ir_get	48	static
-cmd_irblaster.c:45:12:do_ir_send	48	static
-cmd_irblaster.c:26:12:do_ir_test	32	static

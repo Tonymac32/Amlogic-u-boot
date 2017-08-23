@@ -1,2 +1,0 @@
-instaboot.c:19:5:has_instaboot_part	80	static
-instaboot.c:33:5:get_instaboot_header	80	static

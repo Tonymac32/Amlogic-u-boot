@@ -1,9 +1,0 @@
-aml_vpu.c:225:21:get_vpu_clk	0	static
-aml_vpu.c:258:12:2	48	static
-aml_vpu.c:291:12:3	48	static
-aml_vpu.c:833:5:vpu_probe	96	static
-aml_vpu.c:871:5:vpu_remove	48	static
-aml_vpu.c:903:5:vpu_clk_change	48	static
-aml_vpu.c:950:6:vpu_clk_get	32	static
-aml_vpu.c:957:6:vpu_info_print	32	static
-aml_vpu.c:981:6:vcbus_test	80	static

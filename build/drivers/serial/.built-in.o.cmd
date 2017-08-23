@@ -1,1 +1,0 @@
-cmd_drivers/serial/built-in.o :=  /opt/gcc-linaro-aarch64-none-elf-4.8-2013.11_linux/bin/aarch64-none-elf-ld.bfd     -r -o drivers/serial/built-in.o drivers/serial/serial.o drivers/serial/serial_meson.o 

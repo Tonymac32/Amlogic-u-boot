@@ -1,9 +1,0 @@
-bitops.h:12:19:generic_ffs	0	static
-cmd_utils.c:5:6:amlnf_dump_chipinfo	0	static
-cmd_utils.c:13:6:amlnf_get_chip_size	0	static
-cmd_utils.c:26:6:amlnand_dump_page	128	static
-cmd_utils.c:56:5:nand_read_ops	64	static
-cmd_utils.c:117:5:nand_write_ops	64	static
-cmd_utils.c:297:6:amlnf_erase_ops	144	static
-cmd_utils.c:376:6:dbg_amlnf_erase_ops	128	static
-cmd_utils.c:450:6:amlnf_markbad_reserved_ops	80	static

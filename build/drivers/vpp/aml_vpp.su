@@ -1,7 +1,0 @@
-aml_vpp.c:982:13:amvecm_saturation_hue_post	368	static
-aml_vpp.c:526:6:set_vpp_matrix	48	static
-aml_vpp.c:720:6:set_vpp_lut	0	static
-aml_vpp.c:862:13:0	16	static
-aml_vpp.c:1045:6:vpp_pq_init	48	static
-aml_vpp.c:1052:6:vpp_pq_load	96	static
-aml_vpp.c:1081:6:vpp_init	32	static

@@ -1,4 +1,0 @@
-bitops.h:12:19:generic_ffs	0	static
-chip.c:407:6:amlchip_dumpinfo	48	static
-chip.c:451:5:amlchip_opstest	112	static
-chip.c:640:5:amlnand_chip_init	144	static
