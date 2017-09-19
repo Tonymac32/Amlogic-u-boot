@@ -11,6 +11,10 @@ config GXB_P201_V1
 	bool "Support amlogic gxbaby p200(reference) v1 board"
 	default n
 
+config GXB_NANOPI_K2
+	bool "Support FriendlyELEC NanoPi K2 board"
+	default n
+
 config GXTVBB_SKT_V1
 	bool "Support amlogic gxtv baby socket v1 board"
 	default n
@@ -48,7 +52,7 @@ config GXL_P212_V1
 	default n
 
 config GXL_LIBRETECH_CC
-	bool "Support Libretech CC board"
+	bool "Support Libretech AML-S905X-CC board"
 	default n
 
 config GXL_P241_V1
@@ -160,6 +164,10 @@ endif
 
 if GXB_P201_V1
 source "board/amlogic/gxb_p201_v1/Kconfig"
+endif
+
+if GXB_NANOPI_K2
+source "board/amlogic/gxb_nanopi_k2/Kconfig"
 endif
 
 if GXTVBB_SKT_V1
